@@ -52,8 +52,10 @@ This project explores the fundamentals of machine learning by building regressio
    ```bash
    pip install -r requirements.txt
 3. **Run jupyter Notebook:**   
+    ```bash
     jupyter notebook
     ### or
+    ```bash
     jupyter lab
 
 4. **Open the main notebook in the notebooks/ directory.**
