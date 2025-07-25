@@ -34,12 +34,13 @@ This project explores the fundamentals of machine learning by building regressio
 ---
 
 ## Repository Structure
-    ├── data/ # Raw and cleaned datasets
-    ├── notebooks/ # Jupyter notebooks for tutorials and analysis
-    ├── src/ # Source code (feature engineering, models, utils)
-    ├── docs/ # Additional documentation, reports, or slides
-    ├── README.md
+    ├── data/ # Raw and cleaned datasets   
+    ├── notebooks/ # Jupyter notebooks for tutorials and analysis   
+    ├── src/ # Source code (feature engineering, models, utils)   
+    ├── docs/ # Additional documentation, reports, or slides    
+    ├── README.md    
     └── requirements.txt # Python dependencies
+
 
 ## Getting Started
 
