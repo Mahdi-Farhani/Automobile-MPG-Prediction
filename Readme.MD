@@ -54,11 +54,12 @@ This project explores the fundamentals of machine learning by building regressio
 3. **Run jupyter Notebook:**   
     ```bash
     jupyter notebook
-
+    ```
     ### or
-    
+
     ```bash
     jupyter lab
+    ```
 
 4. **Open the main notebook in the notebooks/ directory.**
 
