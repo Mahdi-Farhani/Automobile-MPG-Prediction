@@ -1,9 +1,9 @@
-# Automobile Price Prediction - Auto MPG Dataset
+# Automobile MPG Prediction - Auto MPG Dataset
 
 
 ## Overview
 
-This project explores the fundamentals of machine learning by building regression models to predict automobile prices using the UCI Auto MPG dataset. The content is designed for educational purposes, suitable for workshops, tutorials, and as a reference for those interested in practical machine learning applications.
+This project explores the fundamentals of machine learning by building regression models to predict automobile MPG using the UCI Auto MPG dataset. The content is designed for educational purposes, suitable for workshops, tutorials, and as a reference for those interested in practical machine learning applications.
 
 ---
 
@@ -46,8 +46,8 @@ This project explores the fundamentals of machine learning by building regressio
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/automobile-price-prediction.git
-   cd automobile-price-prediction
+   git clone https://github.com/<your-username>/automobile-MPG-prediction.git
+   cd automobile-MPG-prediction
 2. **Install required packages:**
    ```bash
    pip install -r requirements.txt
