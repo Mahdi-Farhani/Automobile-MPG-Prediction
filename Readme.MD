@@ -81,7 +81,7 @@ This project is licensed under the MIT License.
 
 
 ## Author
-    Name : Mahdi Farhani
+    Name : Mahdi Farhani  
     Position : Senior Software Developer, Ph.D. candidate (AI)
 
 ## Acknowledgements
