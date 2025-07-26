@@ -88,6 +88,6 @@ This project is licensed under the MIT License.
     Position : Senior Software Developer, Ph.D. student (AI)
 
 ## Acknowledgements
-    UCI Machine Learning Repository
-    scikit-learn, pandas, matplotlib, seaborn contributors
-    Workshop participants and reviewers
+    UCI Machine Learning Repository   
+    scikit-learn, pandas, matplotlib, seaborn contributors   
+    Workshop participants and reviewers   
