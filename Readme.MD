@@ -49,9 +49,11 @@ This project explores the fundamentals of machine learning by building regressio
    ```bash
    git clone https://github.com/<your-username>/automobile-MPG-prediction.git
    cd automobile-MPG-prediction
+   ```
 2. **Install required packages:**
    ```bash
    pip install -r requirements.txt
+   ```
 3. **Run jupyter Notebook:**   
     ```bash
     jupyter notebook
@@ -65,12 +67,13 @@ This project explores the fundamentals of machine learning by building regressio
 4. **Open the main notebook in the notebooks/ directory.**
 
 ## Prerequisites
+    
     Python 3.8+
     Jupyter Notebook / Jupyter Lab
     Data science libraries: numpy, pandas, scikit-learn, matplotlib, seaborn, etc.
 
 ## Learning Goals
-    By the end of this exercise, you will be able to:
+    By the end of this exercise, you will be able to:   
     Prepare and clean real-world datasets for regression analysis
     Visualize data distributions and relationships between features
     Implement, tune, and evaluate regression models
@@ -82,7 +85,7 @@ This project is licensed under the MIT License.
 
 ## Author
     Name : Mahdi Farhani  
-    Position : Senior Software Developer, Ph.D. candidate (AI)
+    Position : Senior Software Developer, Ph.D. student (AI)
 
 ## Acknowledgements
     UCI Machine Learning Repository
